@@ -4,8 +4,8 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên: Vũ Đức Nam
-- Mã sinh viên: 1771020484
+- Họ tên: Tạ Minh Đức
+- Mã sinh viên: 1771020173
 - Nhóm: Access Gate
 - Vai trò dự kiến trong nhóm: Developer
 - Hệ điều hành: Windows 11 (WSL2 – Docker Desktop)
